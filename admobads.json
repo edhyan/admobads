@@ -2,9 +2,9 @@
   "pc": "com.on_music_sound.tunes_paradise_player",
   "admob": [
     {
-      "banner": "ca-app-pub-6343574703556846/4234082221",
-      "inter": "ca-app-pub-6343574703556846/1269556272",
-      "interval_inter": 1
+      "banner": "ca-app-pub-xxx",
+      "inter": "ca-app-pub-xxx",
+      "interval_inter": 3
     }
   ]
 }
