@@ -1,0 +1,17 @@
+{
+  "pc": "com.coba_video_downloader.wa_status_saver_backup",
+  "interval_inter": 3,
+  "admob": [
+    {
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "native": "ca-app-pub-3940256099942544/2247696110",
+      "inter": "ca-app-pub-3940256099942544/1033173712"
+    }
+  ],
+  "applovin": [
+    {
+      "inter": "",
+      "native": ""
+    }
+  ]
+}
